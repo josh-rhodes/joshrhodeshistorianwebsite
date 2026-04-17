@@ -79,3 +79,7 @@ weight = 6
 ShowReadingTime = true
 label.icon = "/images/Dr Joshua Rhodes.jpg"
 ShowWordCount = true
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
