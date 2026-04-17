@@ -2,44 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Dr Joshua Rhodes</title>
-    <link>http://localhost:1313/joshrhodeshistorianwebsite/</link>
+    <link>https://josh-rhodes.github.io/joshrhodeshistorianwebsite/</link>
     <description>Recent content on Dr Joshua Rhodes</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Apr 2026 14:54:03 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/joshrhodeshistorianwebsite/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Explorations with record linkage</title>
-      <link>http://localhost:1313/joshrhodeshistorianwebsite/posts/my-first-post/</link>
-      <pubDate>Wed, 15 Apr 2026 14:54:03 +0100</pubDate>
-      <guid>http://localhost:1313/joshrhodeshistorianwebsite/posts/my-first-post/</guid>
-      <description>&lt;h2 id=&#34;record-linkage&#34;&gt;Record linkage&lt;/h2&gt;
-&lt;p&gt;What is this post for? Who is this post for?&lt;/p&gt;
-&lt;p&gt;Linking records with norminal record linkage is&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;ve just come across an impressive &lt;a href=&#34;https://doi.org/10.17863/CAM.120530&#34;&gt;working paper&lt;/a&gt; released by Campop (at Cambridge University) back in August 2025 detailing the first attempt to link every person between the 1851 and 1921 England and Wales (???) censuses. There have been several attempts (mine included) to link subsets of indivduals between censuses using I-CeM data. But this is the first to link all xxx million people. 👏 to the paper&amp;rsquo;s authors G. Proffit, A. Litvine, E. Diduch, R. Linacre &amp;amp; E. Chung - I&amp;rsquo;m looking forward to reading the published paper when it&amp;rsquo;s out!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/joshrhodeshistorianwebsite/posts/my-first-post-copy/</link>
-      <pubDate>Wed, 15 Apr 2026 14:54:03 +0100</pubDate>
-      <guid>http://localhost:1313/joshrhodeshistorianwebsite/posts/my-first-post-copy/</guid>
-      <description>&lt;h2 id=&#34;welcome&#34;&gt;Welcome!&lt;/h2&gt;
-&lt;p&gt;This is my website&lt;/p&gt;
-&lt;p&gt;[params.profileMode]
-enabled = true
-title = &amp;ldquo;&lt;!-- raw HTML omitted --&gt;&amp;rdquo;
-subtitle = &amp;ldquo;Digital History&amp;rdquo;
-imageUrl = &amp;ldquo;/images/Dr Joshua Rhodes.jpg&amp;rdquo;
-imageTitle = &amp;ldquo;&lt;!-- raw HTML omitted --&gt;&amp;rdquo;
-imageWidth = 240
-imageHeight = 240&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Videos</title>
-      <link>http://localhost:1313/joshrhodeshistorianwebsite/videos/</link>
-      <pubDate>Wed, 15 Apr 2026 14:54:03 +0100</pubDate>
-      <guid>http://localhost:1313/joshrhodeshistorianwebsite/videos/</guid>
-      <description>&lt;h3 id=&#34;place-for-my-videos&#34;&gt;Place for my videos&lt;/h3&gt;</description>
-    </item>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://josh-rhodes.github.io/joshrhodeshistorianwebsite/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

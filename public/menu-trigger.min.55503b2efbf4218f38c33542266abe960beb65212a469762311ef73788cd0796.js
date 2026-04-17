@@ -1,1 +1,0 @@
-(()=>{(()=>{var e=document.querySelector("#menu-trigger"),t=document.querySelector(".menu");e.addEventListener("click",function(){t.classList.toggle("hidden")}),document.body.addEventListener("click",function(n){e.contains(n.target)||t.classList.add("hidden")})})()})()

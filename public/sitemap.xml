@@ -2,44 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/joshrhodeshistorianwebsite/about-me/</loc>
+    <loc>https://josh-rhodes.github.io/joshrhodeshistorianwebsite/data/</loc>
     <lastmod>2026-04-15T14:54:03+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/joshrhodeshistorianwebsite/tags/census/</loc>
+    <loc>https://josh-rhodes.github.io/joshrhodeshistorianwebsite/</loc>
     <lastmod>2026-04-15T14:54:03+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/joshrhodeshistorianwebsite/code/</loc>
-    <lastmod>2026-04-15T14:54:03+01:00</lastmod>
+    <loc>https://josh-rhodes.github.io/joshrhodeshistorianwebsite/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/joshrhodeshistorianwebsite/data/</loc>
-    <lastmod>2026-04-15T14:54:03+01:00</lastmod>
+    <loc>https://josh-rhodes.github.io/joshrhodeshistorianwebsite/posts/</loc>
   </url><url>
-    <loc>http://localhost:1313/joshrhodeshistorianwebsite/</loc>
-    <lastmod>2026-04-15T14:54:03+01:00</lastmod>
+    <loc>https://josh-rhodes.github.io/joshrhodeshistorianwebsite/search/</loc>
   </url><url>
-    <loc>http://localhost:1313/joshrhodeshistorianwebsite/posts/my-first-post/</loc>
-    <lastmod>2026-04-15T14:54:03+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/joshrhodeshistorianwebsite/posts/my-first-post-copy/</loc>
-    <lastmod>2026-04-15T14:54:03+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/joshrhodeshistorianwebsite/posts/</loc>
-    <lastmod>2026-04-15T14:54:03+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/joshrhodeshistorianwebsite/publications/</loc>
-    <lastmod>2026-04-15T14:54:03+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/joshrhodeshistorianwebsite/tags/record-linkage/</loc>
-    <lastmod>2026-04-15T14:54:03+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/joshrhodeshistorianwebsite/tags/</loc>
-    <lastmod>2026-04-15T14:54:03+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/joshrhodeshistorianwebsite/videos/</loc>
-    <lastmod>2026-04-15T14:54:03+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/joshrhodeshistorianwebsite/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/joshrhodeshistorianwebsite/search/</loc>
+    <loc>https://josh-rhodes.github.io/joshrhodeshistorianwebsite/tags/</loc>
   </url>
 </urlset>
