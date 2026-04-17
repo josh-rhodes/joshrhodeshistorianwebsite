@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Record-Linkage on Dr Joshua Rhodes</title>
-    <link>http://localhost:1313/tags/record-linkage/</link>
+    <link>http://localhost:1313/joshrhodeshistorianwebsite/tags/record-linkage/</link>
     <description>Recent content in Record-Linkage on Dr Joshua Rhodes</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Apr 2026 14:54:03 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/record-linkage/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/joshrhodeshistorianwebsite/tags/record-linkage/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Explorations with record linkage</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <link>http://localhost:1313/joshrhodeshistorianwebsite/posts/my-first-post/</link>
       <pubDate>Wed, 15 Apr 2026 14:54:03 +0100</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <guid>http://localhost:1313/joshrhodeshistorianwebsite/posts/my-first-post/</guid>
       <description>&lt;h2 id=&#34;record-linkage&#34;&gt;Record linkage&lt;/h2&gt;
 &lt;p&gt;What is this post for? Who is this post for?&lt;/p&gt;
 &lt;p&gt;Linking records with norminal record linkage is&lt;/p&gt;
