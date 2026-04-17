@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://josh-rhodes.github.io/joshrhodeshistorianwebsite/'
 locale = 'en-us'
 title = 'Dr Joshua Rhodes'
 theme = 'PaperMod'
