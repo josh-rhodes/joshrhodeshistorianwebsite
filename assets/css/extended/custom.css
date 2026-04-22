@@ -97,3 +97,12 @@
     border-radius: var(--radius);
     padding: 0.4rem 0.8rem;
 }
+
+.entry-cover img {
+    max-height: 40%;
+    max-width: 40%;
+    border-radius: 50%;
+    align-self: center;
+}
+
+
