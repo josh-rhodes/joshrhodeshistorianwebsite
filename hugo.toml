@@ -1,6 +1,6 @@
 baseURL = "https://www.joshuarhodeshistorian.com/"
 locale = 'en-us'
-title = 'Dr Joshua Rhodes'
+title = 'Home'
 theme = 'PaperMod'
 
 [outputs]
@@ -9,7 +9,7 @@ home = [ "HTML", "RSS", "JSON" ]
 
 [params.homeInfoParams]
 Title = "Josh Rhodes"
-Content = "Lecturer in Digital History"
+Content = "Explorations and lessons in digital history"
 imageUrl = "images/2026-03-28 13.03.20.jpg"
 imageTitle = "<title of image as alt>"
 imageWidth = 240
