@@ -48,7 +48,7 @@ weight = 1
 [[menu.main]]
 identifier = "About me"
 name = "Posts"
-url = "/posts/my-first-post/"
+url = "/posts/"
 weight = 2
 
 [[menu.main]]
