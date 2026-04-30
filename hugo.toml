@@ -28,10 +28,6 @@ name = "Github"
 url = "https://github.com/josh-rhodes"
 
 [[params.socialIcons]]
-name = "Youtube"
-url = "https://github.com/josh-rhodes"
-
-[[params.socialIcons]]
 name = "Orcid"
 url = "https://orcid.org/0000-0002-4017-2777"
 
